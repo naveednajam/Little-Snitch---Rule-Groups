@@ -118,6 +118,7 @@ def main():
 				f.close()
 				script_number+=1
 				rule_count=0
+				first_rule=True
 				#print("rule-count reset done")
 	if rule_count<10000 :				
 		f.write(end)
