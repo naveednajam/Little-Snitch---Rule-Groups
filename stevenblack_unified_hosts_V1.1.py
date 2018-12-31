@@ -88,6 +88,8 @@ def main():
 				rule_notes='            "notes" : "Start lightswitch05",\n'
 			elif line == '# Podejrzane i/lub strony polaczone z innymi oszustwami' :
 				rule_notes='            "notes" : "Start KADhosts",\n'
+			else:
+				rule_notes='            "notes" : "",\n'
 				
 		elif (line.startswith('#</') and line.endswith('>')):
 			rule_notes='            "notes" : "",\n'
@@ -108,7 +110,10 @@ def main():
 			f.write(rule_notes)
 			f.write(rule_owner)
 			f.write(rule_process)
-			rule_remote_domain='            "remote-domains" : "'+str(domain[1].strip())+'"\n'
+			if '#' in str(domain[1].strip()):
+				rule_remote_domain='            "remote-domains" : "'+str(str(domain[1].strip()).split('#')[0])+'"\n'
+			else:
+				rule_remote_domain='            "remote-domains" : "'+str(domain[1].strip())+'"\n'
 			f.write(rule_remote_domain)
 			f.write(rule_end)
 			rule_count+=1
