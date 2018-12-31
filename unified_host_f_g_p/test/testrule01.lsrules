@@ -1,0 +1,50 @@
+{
+	"description" : " Date: 30 December 2018 20:53:07 (UTC) ,  Number of unique domains: 76,788 , ",
+	"name" : "stevenblack0.lsrules",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1546279754.2,
+            "modificationDate" : 1546279754.2,
+            "notes" : " http://stevenblack.com",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "1493361689.rsc.cdn77.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1546279754.2,
+            "modificationDate" : 1546279754.2,
+            "notes" : " http://stevenblack.com",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "30-day-change.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1546279754.2,
+            "modificationDate" : 1546279754.2,
+            "notes" : " http://stevenblack.com",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "2468.go2cloud.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1546279754.2,
+            "modificationDate" : 1546279754.2,
+            "notes" : " http://stevenblack.com",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "adservice.google.nl"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1546279754.2,
+            "modificationDate" : 1546279754.2,
+            "notes" : " http://stevenblack.com",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "analytics.ff.avast.com"
+        }    ]
+}
