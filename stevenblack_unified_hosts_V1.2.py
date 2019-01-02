@@ -48,7 +48,7 @@ def getDirName(url):
 		dir_name='unified_hosts_base'
 		return dir_name
 	else:
-		dir_name=dir_name+url_segments[url_segments.index('alternates')+1]
+		dir_name=dir_name+'_'+url_segments[url_segments.index('alternates')+1]
 		return dir_name
 
 def convert_to_lsrules(target_url):
