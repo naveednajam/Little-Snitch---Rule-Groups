@@ -1,11 +1,236 @@
 {
-	"description" : " Date: 26 January 2019 15:43:39 (UTC) ,  Number of unique domains: 50,033 , ",
+	"description" : " Date: 30 January 2019 01:04:10 (UTC) ,  Number of unique domains: 50,058 , ",
 	"name" : "stevenblack5.lsrules",
 	"rules" :  [
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.museumofsex.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "only4adults.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pornmovies.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pornmovies.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "presidentescort.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.presidentescort.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sex-ly.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sex-ly.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sexadir.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexadir.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sexeden.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sexhubhd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexhubhd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "sexmovie.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexmovie.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "tubev.sex"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tubev.sex"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xfinder.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xnxxsex.pro"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexmagic.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.zesex.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.afarsex.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tuta.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.shovavon.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexmovies-free.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -13,8 +238,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -22,8 +247,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -31,8 +256,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -40,8 +265,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -49,8 +274,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -58,8 +283,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -67,8 +292,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -76,8 +301,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -85,8 +310,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -94,8 +319,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -103,8 +328,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -112,8 +337,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -121,8 +346,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -130,8 +355,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -139,8 +364,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -148,8 +373,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -157,8 +382,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -166,8 +391,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -175,8 +400,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -184,8 +409,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -193,8 +418,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -202,8 +427,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -211,8 +436,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -220,8 +445,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -229,8 +454,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -238,8 +463,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -247,8 +472,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -256,8 +481,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -265,8 +490,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -274,8 +499,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -283,8 +508,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -292,8 +517,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1548518472.11,
-            "modificationDate" : 1548518472.11,
+            "creationDate" : 1549123271.35,
+            "modificationDate" : 1549123271.35,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
