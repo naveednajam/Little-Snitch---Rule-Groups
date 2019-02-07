@@ -6,5 +6,5 @@ as of now each rule group can hold maximum of 10,000 (rules, domain, hosts) scri
 
 ## Change log V1.2:
 Solve issue caused by inline comments in original hosts files.
-Added functionality to convert all list in their respective folders. 
+Added functionality to convert all list in their respective folders.
 List will be automatically updated on weekly basis.
