@@ -1,938 +1,11 @@
 {
-	"description" : " Date: 06 February 2019 15:27:33 (UTC) ,  Number of unique domains: 50,130 , ",
+	"description" : " Date: 12 February 2019 03:49:51 (UTC) ,  Number of unique domains: 50,075 , ",
 	"name" : "stevenblack5.lsrules",
 	"rules" :  [
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornoserver.eu"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pvideo.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pvideo.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "leo.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.leo.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "ceskekundy.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.ceskekundy.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornot.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornot.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornozdarma.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornozdarma.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "jenpornuj.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.jenpornuj.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "tvojepecko.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.tvojepecko.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornohaha.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornohaha.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornoorgie.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornoorgie.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "zvrhlost.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.zvrhlost.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sex.nikee.net"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "drsnysvet.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.drsnysvet.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "freevideo.to"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.freevideo.to"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "ukradena-videa.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.ukradena-videa.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "iporno.sk"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.iporno.sk"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "freesex.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.freesex.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "freshporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.freshporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornodomobilu.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornodomobilu.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "freesexporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.freesexporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "redporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.redporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornopivo.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornopivo.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "ceske-porno.tv"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.ceske-porno.tv"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sexice.eu"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexice.eu"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sex-doma.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sex-doma.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornobabicky.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornobabicky.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pinkporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pinkporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "bigporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.bigporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "smsporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.smsporno.cz"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "1800800.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.1800800.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "balisex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.balisex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "colliderporn.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "drsex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.drsex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "freefuckvids.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.freefuckvids.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "harmanit.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.harmanit.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "hdxxx.top"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.hdxxx.top"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "il.bongacams.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "m.uzit.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "museumofsex.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.museumofsex.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "only4adults.net"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "pornmovies.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.pornmovies.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "presidentescort.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.presidentescort.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sex-ly.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sex-ly.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sexadir.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexadir.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sexeden.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sexhubhd.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexhubhd.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "sexmovie.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexmovie.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "tubev.sex"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.tubev.sex"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "xfinder.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "xnxxsex.pro"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexmagic.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.zesex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.afarsex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.tuta.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.shovavon.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexmovies-free.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.bsex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.sexhinam.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.hdfuckporn.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "xnxxfree.icu"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.kamasex.co.il"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
-            "notes" : "",
-            "owner" : "me",
-            "process" : "any",
-            "remote-domains" : "www.exhilawriting.com"
-        },
-        {
-            "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -940,8 +13,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -949,8 +22,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -958,8 +31,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -967,8 +40,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -976,8 +49,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -985,8 +58,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -994,8 +67,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1003,8 +76,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1012,8 +85,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1021,8 +94,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1030,8 +103,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1039,8 +112,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1048,8 +121,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1057,8 +130,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1066,8 +139,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1075,8 +148,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1084,8 +157,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1093,8 +166,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1102,8 +175,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1111,8 +184,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1120,8 +193,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1129,8 +202,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1138,8 +211,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1147,8 +220,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1156,8 +229,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -1165,11 +238,443 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1549728074.88,
-            "modificationDate" : 1549728074.88,
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
             "remote-domains" : "www.missx.co.il"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.xvideoporno.tv"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xvideos10.blog.br"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pornotube.blog.br"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xvideos.blog"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xvideos.blog.br"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xvideosamadoras.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "toppornsites.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pornobengala.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "porn.es"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "24porn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "vtrahetut.porn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "masseurporn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.tangoporno.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.sexloving.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "teenfuckhd.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.88,
+            "modificationDate" : 1550332871.88,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.bitchyourfamous.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "indianporn.xxx"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pornxxxvideos.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hdporzo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.filmespornos.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "beastiegals.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mrdeepfakes.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "freepornq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pretty.porn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.18porn.sex"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "happy-porn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.mrvideosdesexo.xxx"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mobileporn.me"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.wowgirlsblog.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.pornid.xxx"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.picspussy.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.maturemomson.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.hotgaylist.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "porn555.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "zpornz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yps.to"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "youporner.red"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "youfreeporntube.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yesporner.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "yarada.ru"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xxxstreams.info"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xxx.youfreeporntube.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xvideos4u.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xvideos4u.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xtasie.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xpornrbg.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "xopenload.video"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1550332871.89,
+            "modificationDate" : 1550332871.89,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "www.xmovieshub.com"
         }    ]
 }
