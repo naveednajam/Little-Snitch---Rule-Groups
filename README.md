@@ -2,7 +2,7 @@
 This repo provide rule groups for Little Snitch based on unified host list to block ads, malware, fake news and porn
 
 Python script will convert the unified host files provided and maintained by the great team and members at https://github.com/StevenBlack/hosts to the .lsrules files which can be directly subscribed in Little Snitch V4.1
-as of now each rule group can hold maximum of 10,000 (rules, domain, hosts) script split the unified host file multiple small files each contains maximum of 10,0000 rules to comply with Little Snitch limitation.
+as of now each rule group can hold maximum of 10,000 (rules, domain, hosts) script split the unified host file multiple small files each contains maximum of 10,000 rules to comply with Little Snitch limitation.
 
 ## Change log V1.3:
 As of Little Snitch 4.3 (5264) max domains per rule increased to 200,000. there is no need to create multiple rule group files with the previous limit of 10,000 rules per rule group. This version will generate single file in respective folder with the same name for easy subscription and management.
