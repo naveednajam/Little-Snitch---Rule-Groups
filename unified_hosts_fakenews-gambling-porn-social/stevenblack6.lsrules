@@ -1,11 +1,317 @@
 {
-	"description" : " Date: 10 September 2019 14:43:40 (UTC) ,  Number of unique domains: 60,036 , ",
+	"description" : " Date: 19 September 2019 15:51:42 (UTC) ,  Number of unique domains: 60,070 , ",
 	"name" : "stevenblack6.lsrules",
 	"rules" :  [
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "about.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "alb.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "amp-reddit-com.cdn.ampproject.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "b.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "c.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "d.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "e.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "emoji.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "en.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "events.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "external-preview.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "f.thumbs.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "fr.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "g.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gateway.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gp.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "gql.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "hw.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.redd.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "i.reddituploads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "it.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "m.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "meta-api.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "mod.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "new.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "np.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "oauth.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "old.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "oops.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "out.reddit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
+            "notes" : "",
+            "owner" : "me",
+            "process" : "any",
+            "remote-domains" : "pixel.redditmedia.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -13,8 +319,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -22,8 +328,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -31,8 +337,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -40,8 +346,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -49,8 +355,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -58,8 +364,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -67,8 +373,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -76,8 +382,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -85,8 +391,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -94,8 +400,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -103,8 +409,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -112,8 +418,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -121,8 +427,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -130,8 +436,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -139,8 +445,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -148,8 +454,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -157,8 +463,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -166,8 +472,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -175,8 +481,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -184,8 +490,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -193,8 +499,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -202,8 +508,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -211,8 +517,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -220,8 +526,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -229,8 +535,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -238,8 +544,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -247,8 +553,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -256,8 +562,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -265,8 +571,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -274,8 +580,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -283,8 +589,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -292,8 +598,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -301,8 +607,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -310,8 +616,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
@@ -319,8 +625,8 @@
         },
         {
             "action" : "deny",
-            "creationDate" : 1568476967.25,
-            "modificationDate" : 1568476967.25,
+            "creationDate" : 1569081769.25,
+            "modificationDate" : 1569081769.25,
             "notes" : "",
             "owner" : "me",
             "process" : "any",
